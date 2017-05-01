@@ -1,0 +1,305 @@
+Recursive factorial 0 Value
+StartTime = 614542423349145 StopTime = 614542424337897 ElapsedTime = 988752
+
+Recursive factorial 5 Value
+StartTime = 614542424409597 StopTime = 614542424431043 ElapsedTime = 21446
+
+Recursive factorial 10 Value
+StartTime = 614542424440325 StopTime = 614542424448648 ElapsedTime = 8323
+
+Recursive factorial 15 Value
+StartTime = 614542424454729 StopTime = 614542424465292 ElapsedTime = 10563
+
+Recursive factorial 20 Value
+StartTime = 614542424471054 StopTime = 614542424492500 ElapsedTime = 21446
+
+Recursive factorial 25 Value
+StartTime = 614542424499222 StopTime = 614542424519387 ElapsedTime = 20165
+
+Recursive factorial 30 Value
+StartTime = 614542424525149 StopTime = 614542424549476 ElapsedTime = 24327
+
+Recursive factorial 35 Value
+StartTime = 614542424555877 StopTime = 614542424590767 ElapsedTime = 34890
+
+Recursive factorial 40 Value
+StartTime = 614542424596849 StopTime = 614542424633019 ElapsedTime = 36170
+
+Recursive factorial 45 Value
+StartTime = 614542424639100 StopTime = 614542424677511 ElapsedTime = 38411
+
+Recursive factorial 50 Value
+StartTime = 614542424684553 StopTime = 614542424727765 ElapsedTime = 43212
+
+Recursive factorial 55 Value
+StartTime = 614542424734807 StopTime = 614542424778659 ElapsedTime = 43852
+
+Recursive factorial 60 Value
+StartTime = 614542424784740 StopTime = 614542424839795 ElapsedTime = 55055
+
+Recursive factorial 65 Value
+StartTime = 614542424846517 StopTime = 614542424920458 ElapsedTime = 73941
+
+Recursive factorial 70 Value
+StartTime = 614542424928140 StopTime = 614542425025126 ElapsedTime = 96986
+
+Recursive factorial 80 Value
+StartTime = 614542425036009 StopTime = 614542425125954 ElapsedTime = 89945
+
+Recursive factorial 90 Value
+StartTime = 614542425133636 StopTime = 614542425211098 ElapsedTime = 77462
+
+Recursive factorial 100 Value
+StartTime = 614542425217820 StopTime = 614542425307444 ElapsedTime = 89624
+
+Recursive factorial 110 Value
+StartTime = 614542425313846 StopTime = 614542425393548 ElapsedTime = 79702
+
+Recursive factorial 120 Value
+StartTime = 614542425400910 StopTime = 614542425478691 ElapsedTime = 77781
+
+Non-recursive factorial 0 Value
+StartTime = 614542425488614 StopTime = 614542425492135 ElapsedTime = 3521
+
+Non-recursive factorial 5 Value
+StartTime = 614542425499177 StopTime = 614542425546870 ElapsedTime = 47693
+
+Non-recursive factorial 10 Value
+StartTime = 614542425553272 StopTime = 614542425580159 ElapsedTime = 26887
+
+Non-recursive factorial 15 Value
+StartTime = 614542425586561 StopTime = 614542425623371 ElapsedTime = 36810
+
+Non-recursive factorial 20 Value
+StartTime = 614542425629453 StopTime = 614542425674905 ElapsedTime = 45452
+
+Non-recursive factorial 25 Value
+StartTime = 614542425681307 StopTime = 614542425739883 ElapsedTime = 58576
+
+Non-recursive factorial 30 Value
+StartTime = 614542425746285 StopTime = 614542425818305 ElapsedTime = 72020
+
+Non-recursive factorial 35 Value
+StartTime = 614542425824706 StopTime = 614542425902168 ElapsedTime = 77462
+
+Non-recursive factorial 40 Value
+StartTime = 614542425908890 StopTime = 614542426019640 ElapsedTime = 110750
+
+Non-recursive factorial 45 Value
+StartTime = 614542426026682 StopTime = 614542426127510 ElapsedTime = 100828
+
+Non-recursive factorial 50 Value
+StartTime = 614542426135832 StopTime = 614542426236660 ElapsedTime = 100828
+
+Non-recursive factorial 55 Value
+StartTime = 614542426243062 StopTime = 614542426351892 ElapsedTime = 108830
+
+Non-recursive factorial 60 Value
+StartTime = 614542426360854 StopTime = 614542426486969 ElapsedTime = 126115
+
+Non-recursive factorial 65 Value
+StartTime = 614542426493691 StopTime = 614542426645412 ElapsedTime = 151721
+
+Non-recursive factorial 70 Value
+StartTime = 614542426653095 StopTime = 614542426840986 ElapsedTime = 187891
+
+Non-recursive factorial 80 Value
+StartTime = 614542426848668 StopTime = 614542427024077 ElapsedTime = 175409
+
+Non-recursive factorial 90 Value
+StartTime = 614542427037520 StopTime = 614542427234054 ElapsedTime = 196534
+
+Non-recursive factorial 100 Value
+StartTime = 614542427243337 StopTime = 614542427421306 ElapsedTime = 177969
+
+Non-recursive factorial 110 Value
+StartTime = 614542427428668 StopTime = 614542427634805 ElapsedTime = 206137
+
+Non-recursive factorial 120 Value
+StartTime = 614542427642487 StopTime = 614542427851504 ElapsedTime = 209017
+
+Non-recursive Fibonacci 0 Value
+StartTime = 614542427858866 StopTime = 614542428377409 ElapsedTime = 518543
+
+Non-recursive Fibonacci 5 Value
+StartTime = 614542428388292 StopTime = 614542428706780 ElapsedTime = 318488
+
+Non-recursive Fibonacci 10 Value
+StartTime = 614542428718303 StopTime = 614542428743270 ElapsedTime = 24967
+
+Non-recursive Fibonacci 15 Value
+StartTime = 614542428751592 StopTime = 614542428774638 ElapsedTime = 23046
+
+Non-recursive Fibonacci 20 Value
+StartTime = 614542428780720 StopTime = 614542428803766 ElapsedTime = 23046
+
+Non-recursive Fibonacci 25 Value
+StartTime = 614542428809528 StopTime = 614542428832574 ElapsedTime = 23046
+
+Non-recursive Fibonacci 30 Value
+StartTime = 614542428838976 StopTime = 614542428863623 ElapsedTime = 24647
+
+Non-recursive Fibonacci 35 Value
+StartTime = 614542428870345 StopTime = 614542428897232 ElapsedTime = 26887
+
+Non-recursive Fibonacci 40 Value
+StartTime = 614542428904274 StopTime = 614542428936283 ElapsedTime = 32009
+
+Non-recursive Fibonacci 45 Value
+StartTime = 614542428942044 StopTime = 614542428971172 ElapsedTime = 29128
+
+Non-recursive Fibonacci 50 Value
+StartTime = 614542428978534 StopTime = 614542429010863 ElapsedTime = 32329
+
+Non-recursive Fibonacci 55 Value
+StartTime = 614542429016945 StopTime = 614542429052795 ElapsedTime = 35850
+
+Non-recursive Fibonacci 60 Value
+StartTime = 614542429061117 StopTime = 614542429096007 ElapsedTime = 34890
+
+Non-recursive Fibonacci 65 Value
+StartTime = 614542429103049 StopTime = 614542429139859 ElapsedTime = 36810
+
+Non-recursive Fibonacci 70 Value
+StartTime = 614542429145940 StopTime = 614542429185311 ElapsedTime = 39371
+
+Non-recursive Fibonacci 80 Value
+StartTime = 614542429191393 StopTime = 614542429260852 ElapsedTime = 69459
+
+Non-recursive Fibonacci 90 Value
+StartTime = 614542429267574 StopTime = 614542429343435 ElapsedTime = 75861
+
+Non-recursive Fibonacci 100 Value
+StartTime = 614542429350157 StopTime = 614542429411294 ElapsedTime = 61137
+
+Non-recursive Fibonacci 110 Value
+StartTime = 614542429418335 StopTime = 614542429483634 ElapsedTime = 65299
+
+Non-recursive Fibonacci 120 Value
+StartTime = 614542429490355 StopTime = 614542429555653 ElapsedTime = 65298
+
+Recursive palindrome potato Value
+StartTime = 614542429562695 StopTime = 614542429886945 ElapsedTime = 324250
+
+Recursive palindrome anna Value
+StartTime = 614542429898788 StopTime = 614542429899428 ElapsedTime = 640
+
+Recursive palindrome moon Value
+StartTime = 614542429903909 StopTime = 614542429904229 ElapsedTime = 320
+
+Recursive palindrome computer Value
+StartTime = 614542429907750 StopTime = 614542429908070 ElapsedTime = 320
+
+Recursive palindrome hannah Value
+StartTime = 614542429913192 StopTime = 614542429913512 ElapsedTime = 320
+
+Recursive palindrome monday Value
+StartTime = 614542429917993 StopTime = 614542429917993 ElapsedTime = 0
+
+Recursive palindrome kayak Value
+StartTime = 614542429921514 StopTime = 614542429922154 ElapsedTime = 640
+
+Recursive palindrome monsoon Value
+StartTime = 614542429925675 StopTime = 614542429925995 ElapsedTime = 320
+
+Recursive palindrome civic Value
+StartTime = 614542429929516 StopTime = 614542429929836 ElapsedTime = 320
+
+Recursive palindrome level Value
+StartTime = 614542429933037 StopTime = 614542429933357 ElapsedTime = 320
+
+Recursive palindrome yesterday Value
+StartTime = 614542429939119 StopTime = 614542429939439 ElapsedTime = 320
+
+Recursive palindrome elle Value
+StartTime = 614542429942960 StopTime = 614542429943280 ElapsedTime = 320
+
+Recursive palindrome quarrel Value
+StartTime = 614542429946481 StopTime = 614542429946481 ElapsedTime = 0
+
+Recursive palindrome madam Value
+StartTime = 614542429951282 StopTime = 614542429951602 ElapsedTime = 320
+
+Recursive palindrome suspicious Value
+StartTime = 614542429956724 StopTime = 614542429957044 ElapsedTime = 320
+
+Recursive palindrome noon Value
+StartTime = 614542429960565 StopTime = 614542429960885 ElapsedTime = 320
+
+Recursive palindrome radar Value
+StartTime = 614542430155498 StopTime = 614542430155818 ElapsedTime = 320
+
+Recursive palindrome dedicated Value
+StartTime = 614542430160300 StopTime = 614542430160620 ElapsedTime = 320
+
+Recursive palindrome garage Value
+StartTime = 614542430165101 StopTime = 614542430165421 ElapsedTime = 320
+
+Recursive palindrome stats Value
+StartTime = 614542430169582 StopTime = 614542430169902 ElapsedTime = 320
+
+Non-recursive palindrome potato Value
+StartTime = 614542430173423 StopTime = 614542430176624 ElapsedTime = 3201
+
+Non-recursive palindrome anna Value
+StartTime = 614542430181425 StopTime = 614542430182066 ElapsedTime = 641
+
+Non-recursive palindrome moon Value
+StartTime = 614542430185587 StopTime = 614542430185907 ElapsedTime = 320
+
+Non-recursive palindrome computer Value
+StartTime = 614542430189108 StopTime = 614542430189428 ElapsedTime = 320
+
+Non-recursive palindrome hannah Value
+StartTime = 614542430193589 StopTime = 614542430194229 ElapsedTime = 640
+
+Non-recursive palindrome monday Value
+StartTime = 614542430199350 StopTime = 614542430199350 ElapsedTime = 0
+
+Non-recursive palindrome kayak Value
+StartTime = 614542430202871 StopTime = 614542430203512 ElapsedTime = 641
+
+Non-recursive palindrome monsoon Value
+StartTime = 614542430206712 StopTime = 614542430207033 ElapsedTime = 321
+
+Non-recursive palindrome civic Value
+StartTime = 614542430213434 StopTime = 614542430214074 ElapsedTime = 640
+
+Non-recursive palindrome level Value
+StartTime = 614542430217275 StopTime = 614542430217915 ElapsedTime = 640
+
+Non-recursive palindrome yesterday Value
+StartTime = 614542430221116 StopTime = 614542430221436 ElapsedTime = 320
+
+Non-recursive palindrome elle Value
+StartTime = 614542430225598 StopTime = 614542430225918 ElapsedTime = 320
+
+Non-recursive palindrome quarrel Value
+StartTime = 614542430230079 StopTime = 614542430230079 ElapsedTime = 0
+
+Non-recursive palindrome madam Value
+StartTime = 614542430234240 StopTime = 614542430234560 ElapsedTime = 320
+
+Non-recursive palindrome suspicious Value
+StartTime = 614542430238081 StopTime = 614542430238401 ElapsedTime = 320
+
+Non-recursive palindrome noon Value
+StartTime = 614542430241922 StopTime = 614542430242242 ElapsedTime = 320
+
+Non-recursive palindrome radar Value
+StartTime = 614542430245763 StopTime = 614542430246083 ElapsedTime = 320
+
+Non-recursive palindrome dedicated Value
+StartTime = 614542430251205 StopTime = 614542430251845 ElapsedTime = 640
+
+Non-recursive palindrome garage Value
+StartTime = 614542430255046 StopTime = 614542430255366 ElapsedTime = 320
+
+Non-recursive palindrome stats Value
+StartTime = 614542430258567 StopTime = 614542430259207 ElapsedTime = 640
+
+Recursive binary search
+StartTime = 614542430262408 StopTime = 614542430524240 ElapsedTime = 261832
+
+Non-recursive binary search
+StartTime = 614542430534483 StopTime = 614542430537363 ElapsedTime = 2880
